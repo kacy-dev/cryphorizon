@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0e218ef3.css",
+    "main.js": "/static/js/main.c463b869.js",
+    "static/js/453.805c0b95.chunk.js": "/static/js/453.805c0b95.chunk.js",
+    "static/media/bit-removebg-preview.png": "/static/media/bit-removebg-preview.599791f4242fc504300f.png",
+    "static/media/cryptoM-removebg-preview.png": "/static/media/cryptoM-removebg-preview.710f7e0578045bc02fe2.png",
+    "static/media/bit-main-removebg-preview.png": "/static/media/bit-main-removebg-preview.fc4cb6f62ce47526e2b8.png",
+    "static/media/banner-01.jpg": "/static/media/banner-01.b312bcce5c23023d1284.jpg",
+    "static/media/banner-03.jpg": "/static/media/banner-03.94acc6f1184adb06a051.jpg",
+    "static/media/banner-candle (1).png": "/static/media/banner-candle (1).c55dd91a201e0fde8620.png",
+    "static/media/banner-candle (2).png": "/static/media/banner-candle (2).c55dd91a201e0fde8620.png",
+    "static/media/banner-candle.png": "/static/media/banner-candle.c55dd91a201e0fde8620.png",
+    "static/media/banner-02.jpg": "/static/media/banner-02.4ba96733df74482eec22.jpg",
+    "static/media/testimonyBg.png": "/static/media/testimonyBg.40d2b6f3c6daea7873a6.png",
+    "static/media/logo-main.png": "/static/media/logo-main.e8bcd6cd5906d951b0e9.png",
+    "index.html": "/index.html",
+    "main.0e218ef3.css.map": "/static/css/main.0e218ef3.css.map",
+    "main.c463b869.js.map": "/static/js/main.c463b869.js.map",
+    "453.805c0b95.chunk.js.map": "/static/js/453.805c0b95.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0e218ef3.css",
+    "static/js/main.c463b869.js"
+  ]
+}
